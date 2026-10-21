@@ -1,0 +1,8 @@
+akshare>=1.16
+pandas>=2.2
+numpy>=2.0
+streamlit>=1.39
+openai>=1.60
+python-dotenv>=1.0
+requests>=2.32
+pytest>=8.0
